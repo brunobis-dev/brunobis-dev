@@ -10,6 +10,8 @@
   <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+![snake gif](https://github.com/bruno-ishikawa/bruno-ishikawa/blob/output/github-contribution-grid-snake.svg)
+
 <div>
   <a href="https://github.com/bruno-ishikawa">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=bruno-ishikawa&show_icon=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -32,4 +34,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/bruno-ishikawa/bruno-ishikawa/blob/output/github-contribution-grid-snake.svg)
