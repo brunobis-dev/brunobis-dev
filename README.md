@@ -1,7 +1,13 @@
 <div align="center">
   <h1>Hi, I'm Bruno Ishikawa (💻 💖 🎮) </h1>
 </div>
-  
+
+<p align="center">
+  <a href="https://github.com/brunobis-dev">
+    <img src="./assets/gifs/brunobis-dev.png" width="140" alt="Bruno Ishikawa" />
+  </a>
+</p>
+ 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=200&size=25&color=6495ED&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+profile!;Always+constantly+evolving" alt="Typing SVG" />
