@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/brunobis-dev">
-    <img src="./assets/gifs/brunobis-dev.png" width="140" alt="Bruno Ishikawa" />
+    <img src="./assets/brunobis-dev.png" width="140" alt="Bruno Ishikawa" />
   </a>
 </p>
  
