@@ -14,6 +14,18 @@
 </div>
 
 #
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22u3gvkhg53mfn47c2463wsca&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22u3gvkhg53mfn47c2463wsca&redirect=true)
+
+[![Liked Songs](https://img.shields.io/badge/Liked%20Songs%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/0R133iYbFgYqc18kXZgwvH?si=Dlw5ZSQDQUW-QQ24eX5ksA)
+[![G1](https://img.shields.io/badge/G1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/6JeEh8Xd1aAa0LSsoOqcrs?si=x-TX6ut-SA2oIHjb6Ay4vw) 
+[![R1](https://img.shields.io/badge/R1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/69Y1ZThhhhaQqhRK4oF2qq?si=2Jy7h6nDQSCfSDlZAJQBmQ)
+[![S1](https://img.shields.io/badge/S1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/1xegSeXB251yDcJkXW2vEH?si=1Fmk51c7TcKABkPwf1Woxw)
+[![C1](https://img.shields.io/badge/C1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/7aW6PFi3hEeIU6C2G5pnbF?si=KCVscK4MTn6pGBtBQc-3bw)
+[![F1](https://img.shields.io/badge/F1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/5MT6cUI5mSF4FeGdNC3gwF?si=rZB7pr8HTD-qjzp3lbsASA)
+
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
+
+#
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
