@@ -1,20 +1,12 @@
 <div align="center">
-  <h1>Hi, I'm Bruno Ishikawa (💻 💖 🎮) </h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=200&size=25&color=6495ED&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+profile!+(💻 💖 🎮);Always+constantly+evolving" alt="Typing SVG" bruno/>
+  </a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/brunobis-dev">
-    <img src="./assets/brunobis-dev.png" width="140" alt="Bruno Ishikawa" />
-  </a>
-</p>
- 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=200&size=25&color=6495ED&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+profile!;Always+constantly+evolving" alt="Typing SVG" />
-  </a>
-</p>
+#
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,12 +25,10 @@
   </a>
 </div>
     
-#
 
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruno-ishikawa/bruno-ishikawa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruno-ishikawa/bruno-ishikawa/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bruno-ishiakwa/bruno-ishikawa/output/github-contribution-grid-snake.svg">
+  <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bruno-ishiakwa/bruno-ishikawa/output/github-contribution-grid-snake.svg">
 </picture>
 
-#
