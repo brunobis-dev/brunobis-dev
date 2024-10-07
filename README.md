@@ -14,7 +14,6 @@
 </div>
 
 #
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22u3gvkhg53mfn47c2463wsca&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22u3gvkhg53mfn47c2463wsca&redirect=true)
 
 [![Liked Songs](https://img.shields.io/badge/Liked%20Songs%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/0R133iYbFgYqc18kXZgwvH?si=Dlw5ZSQDQUW-QQ24eX5ksA)
 [![G1](https://img.shields.io/badge/G1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/6JeEh8Xd1aAa0LSsoOqcrs?si=x-TX6ut-SA2oIHjb6Ay4vw) 
@@ -27,7 +26,6 @@
 #
 
 [![Spotify](https://novatorem-qgtdtwh9w-brunobis-devs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
-
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
