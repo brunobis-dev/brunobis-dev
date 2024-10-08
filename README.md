@@ -25,7 +25,8 @@
 
 #
 
-[![Spotify](https://novatorem-qgtdtwh9w-brunobis-devs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
+[![Spotify](https://novatorem-9t0zjg0ys-brunobis-devs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
+
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
