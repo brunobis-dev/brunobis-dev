@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=200&size=25&color=6495ED&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+profile!+(💻 💖 🎮);Always+constantly+evolving" alt="Typing SVG" bruno/>
+    <img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=200&size=25&color=6495ED&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+profile!+(💻 💖 🎸);Always+constantly+evolving" alt="Typing SVG" bruno/>
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 </div>
 
 #
-
+<!--
 [![Liked Songs](https://img.shields.io/badge/Liked%20Songs%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/0R133iYbFgYqc18kXZgwvH?si=Dlw5ZSQDQUW-QQ24eX5ksA)
 [![G1](https://img.shields.io/badge/G1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/6JeEh8Xd1aAa0LSsoOqcrs?si=x-TX6ut-SA2oIHjb6Ay4vw) 
 [![R1](https://img.shields.io/badge/R1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/69Y1ZThhhhaQqhRK4oF2qq?si=2Jy7h6nDQSCfSDlZAJQBmQ)
@@ -27,9 +27,7 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
   [![Spotify](https://readme-spotify-p5xzq4mtu-brunobis-devs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
 </div>
-#
-
-
+-->
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
