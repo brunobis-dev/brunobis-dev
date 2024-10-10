@@ -25,7 +25,7 @@
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-  [![Spotify](https://readme-spotify.reibrow.com/app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
+  [![Spotify](https://readme-spotify-p5xzq4mtu-brunobis-devs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
 </div>
 #
 
