@@ -1,6 +1,12 @@
 <div align="center">
+  <a href="https://github.com/brunobis-dev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=century+gothic&size=30&duration=1&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Bruno+Ishikawa+(%F0%9F%92%BB%F0%9F%92%96%F0%9F%8E%B8)"</img>
+  </a>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=200&size=25&color=6495ED&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+profile!+(💻 💖 🎸);Always+constantly+evolving" alt="Typing SVG" bruno/>
+    <img src="https://readme-typing-svg.demolab.com?font=Century+Gothic&weight=200&size=25&color=6495ED&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+profile!;Always+constantly+evolving" alt="Typing SVG" bruno/>
   </a>
 </div>
 
@@ -8,11 +14,11 @@
 
 ## 📓 Technologies
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,javascript,php,bash,discord,figma,github,gmail,mysql,notion,postgres,py&theme=dark" />
   </a>
-</p>
+</div>
 
 <!--
 [![Liked Songs](https://img.shields.io/badge/Liked%20Songs%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/0R133iYbFgYqc18kXZgwvH?si=Dlw5ZSQDQUW-QQ24eX5ksA)
