@@ -22,8 +22,11 @@
 [![C1](https://img.shields.io/badge/C1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/7aW6PFi3hEeIU6C2G5pnbF?si=KCVscK4MTn6pGBtBQc-3bw)
 [![F1](https://img.shields.io/badge/F1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/5MT6cUI5mSF4FeGdNC3gwF?si=rZB7pr8HTD-qjzp3lbsASA)
 
-[![Spotify](https://brunobis-dev.vercel.app/api/spotify)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://readme-spotify-p5xzq4mtu-brunobis-devs-projects.vercel.app/api/spotif?)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
+</div>
 #
 
 
