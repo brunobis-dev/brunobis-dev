@@ -12,6 +12,14 @@
 
 #
 
+<div align="center">
+  <a href="https://github.com/brunobis-dev">
+    <img width="40%" src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/lofi-coffee.jpg"</img>
+  </a>
+</div>
+
+#
+
 ## 📓 Technologies
 
 <div align="center">
