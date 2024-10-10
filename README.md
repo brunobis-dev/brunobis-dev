@@ -14,7 +14,6 @@
   </a>
 </p>
 
-#
 <!--
 [![Liked Songs](https://img.shields.io/badge/Liked%20Songs%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/0R133iYbFgYqc18kXZgwvH?si=Dlw5ZSQDQUW-QQ24eX5ksA)
 [![G1](https://img.shields.io/badge/G1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/6JeEh8Xd1aAa0LSsoOqcrs?si=x-TX6ut-SA2oIHjb6Ay4vw) 
@@ -29,21 +28,31 @@
   [![Spotify](https://readme-spotify-p5xzq4mtu-brunobis-devs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
 </div>
 -->
-## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunobis-dev&show_icons=true&hide_title=true&theme=github_dark_dimmed&card_width=500"/>
-</a>
-<br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" text="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobis-dev&layout=compact&theme=github_dark_dimmed&card_width=500)](https://github.com/anuraghazra/github-readme-stats"/>
-</a>
-
-##
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruno-ishikawa/bruno-ishikawa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruno-ishikawa/bruno-ishikawa/output/github-contribution-grid-snake-dark.svg">
   <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bruno-ishiakwa/bruno-ishikawa/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<details>
+  <summary>📊 GitHub Stats</summary>
+  <div display="flex" justify="center" align="center">  
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunobis-dev&show_icons=true&hide_title=true&theme=github_dark_dimmed&card_width=500"/>
+    </a>
+  </div>
+  
+  <br>
+  
+  <div display="flex" justify="center" align="center">  
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" text="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobis-dev&layout=compact&theme=github_dark_dimmed&card_width=500)](https://github.com/anuraghazra/github-readme-stats"/>
+    </a>
+  </div>
+</details>
 
