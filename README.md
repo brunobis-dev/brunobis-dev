@@ -47,7 +47,7 @@
 </div>
 -->
 
-<a href="https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca"><img src="readme-spotify-brunobis-devs-projects.vercel.app" alt="Now playing on Spotify"></a>
+ <!-- <a href="https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca"><img src="brunobis-dev.vercel.app/api/spotify"></a> -->
 
 ---
 
@@ -72,6 +72,15 @@
   <div display="flex" justify="center" align="center">  
     <a href="https://github.com/anuraghazra/convoychat">
       <img align="center" text="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobis-dev&layout=compact&theme=github_dark_dimmed&card_width=500)](https://github.com/anuraghazra/github-readme-stats"/>
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary>📜 Quote of the day</summary>
+  <div align="center">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
     </a>
   </div>
 </details>
