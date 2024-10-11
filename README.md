@@ -11,7 +11,7 @@
 </div>
 
 #
-<h3>Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/bruno-silva-698351200/">
     <img src="https://img.shields.io/badge/Linkedin-%20%230A66C2?style=for-the-badge&logo=linkedin">
