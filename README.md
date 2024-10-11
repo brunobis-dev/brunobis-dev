@@ -11,22 +11,17 @@
 </div>
 
 #
-<h3 align="left">Connect with me:</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruno-silva-698351200/">
-    <img src="https://img.shields.io/badge/Linkedin-%20%230A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://twitter.com/bruno_ishikawa">
-    <img src="https://img.shields.io/badge/Twitter-%20black?style=for-the-badge&logo=x">
-  </a>
-  <a href="https://discord.gg/#3660">
-    <img src="https://img.shields.io/badge/Discord%20-%20%237289DA%20?style=for-the-badge&logo=discord&logoColor=white&color=%237289DA%20">
-  </a>
-  <a href="https://github.com/brunobis-dev">
-    <img width="40%" src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/lofi-coffee.jpg"</img>
-  </a>
-</div>
 
+  <img align="right" alt="" height="190px" src="./assets/lofi-coffee.jpg">
+
+<br><br><br>
+
+  <h3 align="left">Connect with me:</h3>
+  
+  [![Linkedin](https://img.shields.io/badge/Linkedin-%20%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-silva-698351200/)
+  [![Twitter](https://img.shields.io/badge/Twitter-%20black?style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2Fbruno_ishikawa)](https://twitter.com/bruno_ishikawa)
+  [![Discord](https://img.shields.io/badge/Discord%20-%20%237289DA%20?style=for-the-badge&logo=discord&logoColor=white&color=%237289DA%20)](https://discord.gg/#3660)
+  
 #
 
 ## 📓 Technologies
