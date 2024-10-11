@@ -21,8 +21,19 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-%20%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-silva-698351200/)
 [![Twitter](https://img.shields.io/badge/Twitter-%20black?style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2Fbruno_ishikawa)](https://twitter.com/bruno_ishikawa)
 [![Discord](https://img.shields.io/badge/Discord%20-%20%237289DA%20?style=for-the-badge&logo=discord&logoColor=white&color=%237289DA%20)](https://discord.gg/#3660)
-  
+
 #
+  
+## 🎧 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22u3gvkhg53mfn47c2463wsca&cover_image=true&theme=novatorem&show_offline=false&background_color=171616&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
+
+[![Liked Songs](https://img.shields.io/badge/Liked%20Songs%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/0R133iYbFgYqc18kXZgwvH?si=Dlw5ZSQDQUW-QQ24eX5ksA)
+[![G1](https://img.shields.io/badge/G1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/6JeEh8Xd1aAa0LSsoOqcrs?si=x-TX6ut-SA2oIHjb6Ay4vw) 
+[![R1](https://img.shields.io/badge/R1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/69Y1ZThhhhaQqhRK4oF2qq?si=2Jy7h6nDQSCfSDlZAJQBmQ)
+[![S1](https://img.shields.io/badge/S1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/1xegSeXB251yDcJkXW2vEH?si=1Fmk51c7TcKABkPwf1Woxw)
+[![C1](https://img.shields.io/badge/C1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/7aW6PFi3hEeIU6C2G5pnbF?si=KCVscK4MTn6pGBtBQc-3bw)
+[![F1](https://img.shields.io/badge/F1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/5MT6cUI5mSF4FeGdNC3gwF?si=rZB7pr8HTD-qjzp3lbsASA)
 
 ## 📓 Technologies
 
@@ -32,32 +43,11 @@
   </a>
 </div>
 
-<!--
-[![Liked Songs](https://img.shields.io/badge/Liked%20Songs%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/0R133iYbFgYqc18kXZgwvH?si=Dlw5ZSQDQUW-QQ24eX5ksA)
-[![G1](https://img.shields.io/badge/G1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/6JeEh8Xd1aAa0LSsoOqcrs?si=x-TX6ut-SA2oIHjb6Ay4vw) 
-[![R1](https://img.shields.io/badge/R1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/69Y1ZThhhhaQqhRK4oF2qq?si=2Jy7h6nDQSCfSDlZAJQBmQ)
-[![S1](https://img.shields.io/badge/S1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/1xegSeXB251yDcJkXW2vEH?si=1Fmk51c7TcKABkPwf1Woxw)
-[![C1](https://img.shields.io/badge/C1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/7aW6PFi3hEeIU6C2G5pnbF?si=KCVscK4MTn6pGBtBQc-3bw)
-[![F1](https://img.shields.io/badge/F1.%20-%231DB954.svg?&style=flat-rounded&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/5MT6cUI5mSF4FeGdNC3gwF?si=rZB7pr8HTD-qjzp3lbsASA)
-
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-  [![Spotify](https://readme-spotify-p5xzq4mtu-brunobis-devs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca)
-</div>
--->
-
- <!-- <a href="https://open.spotify.com/user/22u3gvkhg53mfn47c2463wsca"><img src="brunobis-dev.vercel.app/api/spotify"></a> -->
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruno-ishikawa/bruno-ishikawa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruno-ishikawa/bruno-ishikawa/output/github-contribution-grid-snake-dark.svg">
   <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bruno-ishiakwa/bruno-ishikawa/output/github-contribution-grid-snake.svg">
 </picture>
-
----
 
 <details>
   <summary>📊 GitHub Stats</summary>
