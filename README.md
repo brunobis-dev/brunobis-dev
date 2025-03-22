@@ -19,7 +19,6 @@
   <h3 align="left">Connect with me:</h3>
   
 [![Linkedin](https://img.shields.io/badge/Linkedin-%20%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-silva-698351200/)
-[![Twitter](https://img.shields.io/badge/Twitter-%20black?style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2Fbruno_ishikawa)](https://twitter.com/bruno_ishikawa)
 [![Discord](https://img.shields.io/badge/Discord%20-%20%237289DA%20?style=for-the-badge&logo=discord&logoColor=white&color=%237289DA%20)](https://discord.gg/#3660)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
